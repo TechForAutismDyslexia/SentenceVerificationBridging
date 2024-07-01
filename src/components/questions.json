@@ -1,0 +1,93 @@
+{
+    "images": {
+      "section-1": [
+        {
+          "id": 1,
+          "url": "image-5.jpeg",
+          "caption": "Image 1",
+          "description": "This is the first image in section one",
+          "options": [
+            "Jessie is playing \"Soldier\" again.She puts on her uniform and marches around the house.",
+            "Jessie wants to be a postman. She is delivering the mail to her friends."
+          ],
+          "correctanswer": "Jessie wants to be a postman. She is delivering the mail to her friends.",
+          "attempts": 0,
+          "timetaken": 0
+        },
+        {
+          "id": 2,
+          "url": "image-4.jpeg",
+          "caption": "Image 2",
+          "description": "This is the second image in section one",
+          "options": [
+            "First the men dug up the earth and raked it smooth.Then they planted the seeds in nice straight rows.Soon they will see the plants begin to grow.",
+            "The workers were busy with the harvest.Almost all of the vegetables had already been picked, packed in boxes , and taken to the market.The garden looked empty.",
+            "The vegetables were almost ready to harvest.The workers brought water in baskets and pails to water them.They had to be careful not to step on the vegetables and damage them."
+          ],
+          "correctanswer": "The vegetables were almost ready to harvest.The workers brought water in baskets and pails to water them.They had to be careful not to step on the vegetables and damage them.",
+          "attempts": 0,
+          "timetaken": 0
+        },
+        {
+          "id": 3,
+          "url": "image-2.jpeg",
+          "caption": "Image 3",
+          "description": "This is the third image in section one",
+          "options": [
+            "\" This is a nice comfortable room\", thought Tim.\" The chairs look so comfortable. They make me want to curl up and go to sleep.",
+            "The house was decorated for the holidays. Ornaments and colored ribbons were hanging everywhere. They looked especially pretty in the window.",
+            "\"This is a mess,\"said mother.\" I want you yo take all of these dirty plates into the kitchen, right now!\"",
+            "The room was ready at last. The table was set, all ready for grandma and grandpa when they came for Sunday dinner. Mom and I would bring the food soon."
+          ],
+          "correctanswer": "The room was ready at last. The table was set, all ready for grandma and grandpa when they came for Sunday dinner. Mom and I would bring the food soon.",
+          "attempts": 0,
+          "timetaken": 0
+        }
+      ],
+      "section-2": [
+        {
+          "id": 1,
+          "url": "image-3.jpeg",
+          "caption": "Image 1",
+          "description": "This is the first image in second section",
+          "options": [
+            "The steam engine rumbled through the country. Along the way, it left a trail of smoke and ash that will turn the snow gray.",
+            "\"All aboard,\" shouted the conductor.With smoke pouring out of the engine, the train pulled slowly out of the station."
+          ],
+          "correctanswer": "The steam engine rumbled through the country. Along the way, it left a trail of smoke and ash that will turn the snow gray.",
+          "attempts": 0,
+          "timetaken": 0
+        },
+        {
+          "id": 2,
+          "url": "image-6.jpeg",
+          "caption": "Image 2",
+          "description": "This is the second image in second section",
+          "options": [
+            "The tree branches brushed the boat as it traveled up the river.Thousands of insects attacked the men as they slept on the deck.",
+            "The boat moved along the coast, past wide sandy beaches.Later the travelers would return to lie on the sand and swim in the warm water.",
+            "The people in the boat wanted to land on the shore and go for a walk. The problem was that a huge cliff rose right out of the water so there was nowhere to land"
+          ],
+          "correctanswer": "The people in the boat wanted to land on the shore and go for a walk. The problem was that a huge cliff rose right out of the water so there was nowhere to land",
+          "attempts": 0,
+          "timetaken": 0
+        },
+        {
+          "id": 3,
+          "url": "image-1.jpeg",
+          "caption": "Image 3",
+          "description": "This is the third image in second section",
+          "options": [
+            "\"Nobody will know me in this costume\", laughed Joey.\" Lots of kids are probably going to the really scared too! I have a huge goodie bag this Halloween.\"",
+            "The lonely old lady limped down the street, chattering to herself. She felt ill, but she didn't know the way to the doctor's office.",
+            "\"I'm sick and tired of feeding those greedy birds\",said Farmer Jones,\"Old Bees Scarecrow here should stop them from gobbling up my grain.\"",
+            "When the thing attacked, Danny hit it with his club. He struggled and screamed until the men from town came to help."
+          ],
+          "correctanswer": "\"I'm sick and tired of feeding those greedy birds\",said Farmer Jones,\"Old Bees Scarecrow here should stop them from gobbling up my grain.\"",
+          "attempts": 0,
+          "timetaken": 0
+        }
+      ]
+    }
+  }
+  
