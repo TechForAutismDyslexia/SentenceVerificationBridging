@@ -7,9 +7,9 @@ import { BrowserRouter,Routes,Route } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter >
             <Routes> 
-              <Route exact path="/" element={<Game/> } />
+              <Route  path="/" element={<Game/> } />
              
             </Routes>
     </BrowserRouter>
