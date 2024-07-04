@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter >
             <Routes> 
-              <Route  path="/" element={<Game/> } />
+              <Route  path="/games/sentenceverification2/" element={<Game/> } />
              
             </Routes>
     </BrowserRouter>

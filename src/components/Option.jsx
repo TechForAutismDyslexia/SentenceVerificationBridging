@@ -1,7 +1,7 @@
 
 import React from 'react';
-import playIcon from './playIcon.png';
-import playIconClicked from './playIconClicked.jpg';
+import playIcon from '../assests/images/playIcon.png'
+import playIconClicked from '../assests/images/playIconClicked.jpg'
 import 'bootstrap/dist/css/bootstrap.min.css';  
 import './game.css'; 
 
