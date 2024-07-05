@@ -3,7 +3,7 @@ import axios from 'axios';
 import file from '../assests/questions.json';
 import Option from './Option';
 import Confetti from 'react-confetti';
-import { shuffleArray } from '../utils'
+import { shuffleArray } from '../utils/shuffleArray.js'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './game.css';
 import {Link}  from "react-router-dom"
