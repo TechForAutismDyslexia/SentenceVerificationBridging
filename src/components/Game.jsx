@@ -24,7 +24,7 @@ export default function Game() {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await axios.get('http://localhost:5001/api/sections');
+                const response = await axios.get('https://api.joywithlearning.com/api/sentenceverificationbridging/sections');
                 setSections(response.data);
                 if (response.data['section-1'] && response.data['section-1'].length > 0) {
                     setCurrentData(response.data['section-1'][0]); 
