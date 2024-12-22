@@ -7,11 +7,10 @@ import { BrowserRouter,Routes,Route } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter >
-            <Routes> 
-              <Route  path="/games/sentenceverification2/" element={<Game/> } />
-             
-            </Routes>
+    <BrowserRouter>
+      <Routes> 
+        <Route path="/games/sentenceverification2/" element={<Game/> } />
+      </Routes>
     </BrowserRouter>
   );
 }
